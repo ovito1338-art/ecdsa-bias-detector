@@ -1,6 +1,6 @@
 """
 =============================================================================
- Project: Grid_Topology_Alpha / Janus-Engine
+ Project: ecdsa-bias-detector / Janus-Engine
  Description: Production-Grade Harmonic Entropy Auditor & Nonce Bias Detector
  Author: Alexander Perez Cruz
  =============================================================================
