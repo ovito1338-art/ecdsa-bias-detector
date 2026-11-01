@@ -1,2 +1,2 @@
-# Grid_Topology_Alpha dependencies
+# ecdsa-bias-detector dependencies
 # Python standard libraries used: hashlib
